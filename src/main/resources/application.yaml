@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: java-dev-playground
+  profiles:
+    active: dev
+
+server:
+  port: 8080
